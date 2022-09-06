@@ -18,11 +18,11 @@ apks for diffrent platforms
 
 username
 ```
-Admin@kssmart.co
+Fininfocom
 ```
 password
 ```
-123456
+Fin@123
 ```
 
 ## How to Use 
