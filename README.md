@@ -32,7 +32,7 @@ password
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/salahu01/ks_smart_project.git
+https://github.com/shabilbabu/fininfocom_assignment.git
 
 ```
 
@@ -64,9 +64,6 @@ Bloc with Cubit
 
 ## Libraries & Tools Used 
 
-* [bloc](https://pub.dev/packages/bloc)
-* [equatable](https://pub.dev/packages/equatable)
-* [flutter_bloc](https://pub.dev/packages/flutter_bloc)
-* [dio](https://pub.dev/packages/dio)
+* [provider](https://pub.dev/packages/provider)
+* [firebase_core](https://pub.dev/packages/firebase_core)
 * [cloud_firestore](https://pub.dev/packages/cloud_firestore)
-* [intl](https://pub.dev/packages/intl)
