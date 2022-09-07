@@ -60,7 +60,7 @@ MVC
 
 ## Followed StateManagement
 
-Bloc with Cubit
+Provider
 
 ## Libraries & Tools Used 
 
